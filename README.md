@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Guilherme Gentile and I am a seasoned Technology Director at Exclusiva. I am proud to have played a key role in the development of all the company's internal systems, including automation and the successful e-commerce platform with seamless integrations. I am passionate about technical challenges and am always working to improve my skills in system integrations. In my free time, I love exploring the possibilities of creating innovative solutions for the smart home. As a highly skilled and dedicated software engineer, I am always seeking new opportunities for growth and evolution in my career.
+My name is Guilherme Gentile and I am a seasoned Technology Director at Exclusiva SexShop. I am proud to have played a key role in the development of all the company's internal systems, including automation and the successful e-commerce platform with seamless integrations. I am passionate about technical challenges and am always working to improve my skills in system integrations. In my free time, I love exploring the possibilities of creating innovative solutions for the smart home. As a highly skilled and dedicated software engineer, I am always seeking new opportunities for growth and evolution in my career.
 
 <!--
 **Guigass/guigass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
